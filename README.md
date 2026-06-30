@@ -1,1 +1,1 @@
-# workshop
+# Mapping the Cloud workshop
