@@ -7,14 +7,14 @@
     },
     {
         "title": "Helsinki data centre to heat homes",
-        "date": "2010//07/20",
+        "date": "2010/07/20",
         "url": "https://www.theguardian.com/environment/2010/jul/20/helsinki-data-centre-heat-homes",
         "archive": "https://web.archive.org/web/20260916115500/https://www.theguardian.com/environment/2010/jul/20/helsinki-data-centre-heat-homes"
 
     },
     {
         "title": "Data Centers Aren't Devouring the Planet's Electricity—Yet",
-        "date": "2020//02/27",
+        "date": "2020/02/27",
         "url": "https://www.wired.com/story/data-centers-not-devouring-planet-electricity-yet/",
         "archive": "https://web.archive.org/web/20260712193836/https://www.wired.com/story/data-centers-not-devouring-planet-electricity-yet/"
     },
@@ -29,5 +29,23 @@
         "date":"2010/12/14",
         "url":"https://www.cnet.com/culture/stallman-chrome-os-is-careless-computing/",
         "archive":"https://web.archive.org/web/20260916120717/https://www.cnet.com/culture/stallman-chrome-os-is-careless-computing/"
-    }
+    },
+    {
+        "title":"Luonnon­suojeluliitto: Googlen työmailla tehty epäiltyjä laittomia hakkuita Kajaanissa ja Muhoksella",
+        "date":"2026/09/20",
+        "url":"https://yle.fi/a/74-20246839",
+        "archive":"https://web.archive.org/web/20260918042445/https://yle.fi/a/74-20246839"
+    },
+    {
+        "title":"Finland investigates suspected illegal logging at Google data centre sites",
+        "date":"2026/09/19",
+        "url":"https://www.helsinkitimes.fi/finland/finland-news/domestic/29292-finland-investigates-suspected-illegal-logging-at-google-data-centre-sites.html",
+        "archive":"https://web.archive.org/web/20260919150959/https://www.helsinkitimes.fi/finland/finland-news/domestic/29292-finland-investigates-suspected-illegal-logging-at-google-data-centre-sites.html"
+    },
+    {
+        "title":"Finland investigates suspected illegal logging at Google data centre sites",
+        "date":"2026/09/19",
+        "url":"https://www.helsinkitimes.fi/finland/finland-news/domestic/29292-finland-investigates-suspected-illegal-logging-at-google-data-centre-sites.html",
+        "archive":"https://web.archive.org/web/20260919150959/https://www.helsinkitimes.fi/finland/finland-news/domestic/29292-finland-investigates-suspected-illegal-logging-at-google-data-centre-sites.html"
+    },
 ]
