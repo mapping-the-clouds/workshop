@@ -3,49 +3,176 @@
         "title": "Video: Is Google's €13bn investment good news for Finland?",
         "date": "2026/09/11",
         "url": "https://yle.fi/a/74-20245722",
-        "archive": "https://web.archive.org/web/20260916091916/https://yle.fi/a/74-20245722"
+        "archive": "https://web.archive.org/web/20260916091916/https://yle.fi/a/74-20245722",
+        "type": "news"
     },
     {
         "title": "Helsinki data centre to heat homes",
         "date": "2010/07/20",
         "url": "https://www.theguardian.com/environment/2010/jul/20/helsinki-data-centre-heat-homes",
-        "archive": "https://web.archive.org/web/20260916115500/https://www.theguardian.com/environment/2010/jul/20/helsinki-data-centre-heat-homes"
+        "archive": "https://web.archive.org/web/20260916115500/https://www.theguardian.com/environment/2010/jul/20/helsinki-data-centre-heat-homes",
+        "type": "news"
 
     },
     {
         "title": "Data Centers Aren't Devouring the Planet's Electricity—Yet",
         "date": "2020/02/27",
         "url": "https://www.wired.com/story/data-centers-not-devouring-planet-electricity-yet/",
-        "archive": "https://web.archive.org/web/20260712193836/https://www.wired.com/story/data-centers-not-devouring-planet-electricity-yet/"
+        "archive": "https://web.archive.org/web/20260712193836/https://www.wired.com/story/data-centers-not-devouring-planet-electricity-yet/",
+        "type": "news"
     },
     {
         "title":"An Amazon Engineer Had a Little Idea That Turned Into a Billion-Dollar Business",
         "date":"2012/11/12",
         "url":"https://www.theatlantic.com/technology/archive/2012/11/an-amazon-engineer-had-a-little-idea-that-turned-into-a-billion-dollar-business/265124/",
-        "archive":"https://web.archive.org/web/20221206071709/https://www.theatlantic.com/technology/archive/2012/11/an-amazon-engineer-had-a-little-idea-that-turned-into-a-billion-dollar-business/265124/"
+        "archive":"https://web.archive.org/web/20221206071709/https://www.theatlantic.com/technology/archive/2012/11/an-amazon-engineer-had-a-little-idea-that-turned-into-a-billion-dollar-business/265124/",
+        "type": "news"
     },
     {
         "title":"Stallman: Chrome OS is 'careless computing'",
         "date":"2010/12/14",
         "url":"https://www.cnet.com/culture/stallman-chrome-os-is-careless-computing/",
-        "archive":"https://web.archive.org/web/20260916120717/https://www.cnet.com/culture/stallman-chrome-os-is-careless-computing/"
+        "archive":"https://web.archive.org/web/20260916120717/https://www.cnet.com/culture/stallman-chrome-os-is-careless-computing/",
+        "type": "news"
     },
     {
         "title":"Luonnon­suojeluliitto: Googlen työmailla tehty epäiltyjä laittomia hakkuita Kajaanissa ja Muhoksella",
         "date":"2026/09/20",
         "url":"https://yle.fi/a/74-20246839",
-        "archive":"https://web.archive.org/web/20260918042445/https://yle.fi/a/74-20246839"
+        "archive":"https://web.archive.org/web/20260918042445/https://yle.fi/a/74-20246839",
+        "type": "news"
     },
     {
         "title":"Finland investigates suspected illegal logging at Google data centre sites",
         "date":"2026/09/19",
         "url":"https://www.helsinkitimes.fi/finland/finland-news/domestic/29292-finland-investigates-suspected-illegal-logging-at-google-data-centre-sites.html",
-        "archive":"https://web.archive.org/web/20260919150959/https://www.helsinkitimes.fi/finland/finland-news/domestic/29292-finland-investigates-suspected-illegal-logging-at-google-data-centre-sites.html"
+        "archive":"https://web.archive.org/web/20260919150959/https://www.helsinkitimes.fi/finland/finland-news/domestic/29292-finland-investigates-suspected-illegal-logging-at-google-data-centre-sites.html",
+        "type": "news"
     },
     {
-        "title":"Finland investigates suspected illegal logging at Google data centre sites",
-        "date":"2026/09/19",
-        "url":"https://www.helsinkitimes.fi/finland/finland-news/domestic/29292-finland-investigates-suspected-illegal-logging-at-google-data-centre-sites.html",
-        "archive":"https://web.archive.org/web/20260919150959/https://www.helsinkitimes.fi/finland/finland-news/domestic/29292-finland-investigates-suspected-illegal-logging-at-google-data-centre-sites.html"
+        "title":"Meta faces Ghana lawsuits over impact of extreme content on moderators",
+        "date":"2026/04/27",
+        "url":"https://www.theguardian.com/technology/2025/apr/27/meta-faces-ghana-lawsuits-over-impact-of-extreme-content-on-moderators",
+        "archive":"https://web.archive.org/web/20260917130828/https://www.theguardian.com/technology/2025/apr/27/meta-faces-ghana-lawsuits-over-impact-of-extreme-content-on-moderators",
+        "type": "news"
     },
+    {
+        "title":"From Chile to the Philippines, meet the people pushing back on AI",
+        "date":"2026/03/24",
+        "url":"https://restofworld.org/2026/ai-pushback-chile-mexico-kenya-philippines/",
+        "archive":"https://web.archive.org/web/20260918174409/https://restofworld.org/2026/ai-pushback-chile-mexico-kenya-philippines/",
+        "type": "news"
+    },
+    {
+        "title":"Microsoft buys land for data centre on Finland's west coast",
+        "date":"2026/06/05",
+        "url":"https://yle.fi/a/74-20230072",
+        "archive":"https://web.archive.org/web/20260919133559/https://yle.fi/a/74-20230072",
+        "type": "news"
+    },
+    {
+        "title":"Microsoft buys land for data centre on Finland's west coast",
+        "date":"2026/06/05",
+        "url":"https://yle.fi/a/74-20230072",
+        "archive":"https://web.archive.org/web/20260919133559/https://yle.fi/a/74-20230072",
+        "type": "news"
+    },
+    {
+        "title":"Key Minerals in Data Centers Infographic",
+        "date":"2025/07/01",
+        "url":"https://www.usgs.gov/media/images/key-minerals-data-centers-infographic",
+        "archive":"https://web.archive.org/web/20260920174645/https://www.usgs.gov/media/images/key-minerals-data-centers-infographic",
+        "type": "infographic"
+    },
+    {
+        "title":"Indigenous group in Brazil takes TikTok to court over planned data center",
+        "date":"2025/09/08",
+        "url":"https://restofworld.org/2025/brazil-indigenous-group-sues-tiktok-data-center/",
+        "archive":"https://web.archive.org/web/20260917130123/https://restofworld.org/2025/brazil-indigenous-group-sues-tiktok-data-center/",
+        "type": "news"
+    },
+    {
+        "title":"‘It’s all you can hear’: New Jersey lawsuit takes on datacenter’s noise pollution",
+        "date":"2026/08/28",
+        "url":"https://www.theguardian.com/us-news/2026/aug/28/datacenters-sound-pollution-lawsuits",
+        "archive":"https://web.archive.org/web/20260907042519/https://www.theguardian.com/us-news/2026/aug/28/datacenters-sound-pollution-lawsuits",
+        "type": "news"
+    },
+    {
+        "title":"Residents file lawsuit challenging noise pollution from Elon Musk's data center",
+        "date":"2026/09/17",
+        "url":"https://www.npr.org/2026/09/17/nx-s1-5954414/residents-file-lawsuit-challenging-noise-pollution-from-elon-musks-data-center",
+        "archive":"https://web.archive.org/web/20260918195147/https://www.npr.org/2026/09/17/nx-s1-5954414/residents-file-lawsuit-challenging-noise-pollution-from-elon-musks-data-center",
+        "type": "news"
+    },
+    {
+        "title":"All The Locations of All Servers",
+        "date":"2026/09/20",
+        "url":"https://data-center-map.com/",
+        "archive":"https://web.archive.org/web/20260907120839/https://data-center-map.com/",
+        "type": "map"
+    },
+    {
+        "title":"Climate Justice and Labor Rights | Part II: Labor Organizing and Environmental Justice in Tech, Past and Presents",
+        "date":"2023/08/03",
+        "url":"https://ainowinstitute.org/publications/climate-justice-and-labor-rights-part-2-labor-organizing-and-environmental-justice-in-tech-past-and-present",
+        "archive":"https://web.archive.org/web/20260518010834/https://ainowinstitute.org/publications/climate-justice-and-labor-rights-part-2-labor-organizing-and-environmental-justice-in-tech-past-and-present",
+        "type": "paper"
+    },
+    {
+        "title":"AI will add to the e-waste problem. Here’s what we can do about it.",
+        "date":"2024/10/28",
+        "url":"https://www.technologyreview.com/2024/10/28/1106316/ai-e-waste/",
+        "archive":"https://web.archive.org/web/20260825095825/https://www.technologyreview.com/2024/10/28/1106316/ai-e-waste/",
+        "type": "story"
+    },
+    {
+        "title":"How Are Data Centers Impacting Health?",
+        "date":"2026/09/10",
+        "url":"https://today.uconn.edu/2026/09/how-are-data-centers-impacting-health/",
+        "archive":"https://web.archive.org/web/20260910162910/https://today.uconn.edu/2026/09/how-are-data-centers-impacting-health/",
+        "type": "news"
+    },
+    {
+        "title":"Building for everyone",
+        "date":"2026/09/21",
+        "url":"https://datacenters.google/",
+        "archive":"https://web.archive.org/web/20260915200159/https://datacenters.google/",
+        "type": "webpage"
+    },
+    {
+        "title":"Illuminating the unseen power of the cloud",
+        "date":"2026/09/21",
+        "url":"https://datacenters.microsoft.com/",
+        "archive":"https://web.archive.org/web/20260917180831/https://datacenters.microsoft.com/",
+        "type": "webpage"
+    },
+    {
+        "title":"AWS Data Centers: Our security approach to protect data centers",
+        "date":"2026/09/21",
+        "url":"https://aws.amazon.com/trust-center/data-center/",
+        "archive":"https://web.archive.org/web/20260911171659/https://aws.amazon.com/trust-center/data-center/",
+        "type": "webpage"
+    },
+    {
+        "title":"Infrastructure for today and tomorrow",
+        "date":"2026/09/21",
+        "url":"https://datacenters.atmeta.com/",
+        "archive":"https://web.archive.org/web/20260910200829/https://datacenters.atmeta.com/",
+        "type": "webpage"
+    },
+    {
+        "title":"Amazon Mechanical Turk: Access a global, on-demand, 24x7 workforce",
+        "date":"2026/09/21",
+        "url":"https://www.mturk.com/",
+        "archive":"https://web.archive.org/web/20260920095219/https://www.mturk.com/",
+        "type": "webpage"
+    },
+    {
+        "title":"Who Owns The World's Largest Data Centers?",
+        "date":"2026/09/21",
+        "url":"https://www.sunbirddcim.com/infographic/who-owns-worlds-largest-data-centers",
+        "archive":"https://web.archive.org/web/20260124190408/https://www.sunbirddcim.com/infographic/who-owns-worlds-largest-data-centers",
+        "type": "infographic"
+    }  
 ]
