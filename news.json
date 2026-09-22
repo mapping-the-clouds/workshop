@@ -174,5 +174,12 @@
         "url":"https://www.sunbirddcim.com/infographic/who-owns-worlds-largest-data-centers",
         "archive":"https://web.archive.org/web/20260124190408/https://www.sunbirddcim.com/infographic/who-owns-worlds-largest-data-centers",
         "type": "infographic"
-    }  
+    },
+    {
+        "title":"A Brief History of Cloud Computing",
+        "date":"2021/12/17",
+        "url":"https://www.dataversity.net/articles/brief-history-cloud-computing/",
+        "archive":"https://web.archive.org/web/20260915113559/https://www.dataversity.net/articles/brief-history-cloud-computing/",
+        "type": "story"
+    }
 ]
